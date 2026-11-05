@@ -16,7 +16,6 @@ How DemoFoods receives customer payments in DemoERP and matches them to invoices
 
 Out of scope for this version:
 - Payments to suppliers.
-- Partial payments on an invoice. Handled as a change request after sign-off (#12, D-014).
 
 ## Requirements
 
